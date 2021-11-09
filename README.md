@@ -1,2 +1,2 @@
-# Sort_Algorithms_w_Python
-Sorting Algorithms
+# Merge Sort with Python
+
